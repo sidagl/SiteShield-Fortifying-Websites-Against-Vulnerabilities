@@ -1,3 +1,3 @@
 # SiteShield: Fortifying Websites Against Vulnerabilities
-https://sidagl.github.io/SiteShield-Fortifying-Websites-Against-Vulnerabilities/
+https://sidagl.github.io/SiteShield-Fortifying-Websites-Against-Vulnerabilities/ <br>
 The primary objective of this project is to develop a basic yet effective web vulnerability scanner capable of identifying prevalent security flaws such as Cross-Site Scripting (XSS) and SQL Injection in web applications. This tool aims to serve as an educational resource, providing foundational insights into web security and the methodologies attackers use to exploit these vulnerabilities. By understanding these vulnerabilities, users can better secure web applications against potential threats.
